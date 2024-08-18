@@ -9,7 +9,7 @@ const achievementsList = [
   },
   {
     metric: "Badges",
-    value: 20,
+    value: 30,
     postfix: "+",
   },
   {
